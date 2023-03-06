@@ -1,4 +1,3 @@
-Record No.,Invoice,StockCode,Description,Quantity,InvoiceDate,Price,Customer ID,Country
 
 create database if not exists online_retail;
 use online_retail;
